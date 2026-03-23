@@ -1,6 +1,6 @@
 # Levelled-Mobs-Legendary-Loot
 This is a Minecraft Bedrock Edition RPG add-on designed to bring the "Diablo" experience to Minecraft.  
-Please note that the original project page on CurseForge has been banned.  
+Please note that the original project page on CurseForge has been removed.  
 <h2>Requirements</h2>  
 Beta APIs must be enabled.  
 Please use Minecraft version 1.26.3+ (Official Release).  
